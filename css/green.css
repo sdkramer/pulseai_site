@@ -142,12 +142,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #ffffff;
+  color: #00e676;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #ffffff;
+    color: #008042;
     text-decoration: none; }
 
 a:not([href]):not([tabindex]) {
